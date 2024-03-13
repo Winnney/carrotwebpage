@@ -999,7 +999,7 @@
 @media screen and (max-width: 1000px){
   .form .signup{
     height: 97vh;
-    border: 2px solid blue;
+    /* border: 2px solid blue; */
   }
 }
 
